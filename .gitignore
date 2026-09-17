@@ -5,3 +5,10 @@ __pycache__/
 data/**/groundtruth/
 data/_cache/
 /*.zip
+node_modules/
+.model-cache/
+artifacts/
+package.json
+package-lock.json
+scripts/*.mjs
+scripts/create_easy_cvat_annotations.ps1
